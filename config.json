@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpelete",
+        "uuid": 3931328,
+        "checksum": "t85u4n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
